@@ -22,6 +22,8 @@ Afer we Identified the disease, we need to predict the percent it has been spoil
 
 * We have manually given the Advice for the crops but that can be customized by the target users
 
+[Pratical Implementation](https://drive.google.com/file/d/17WoJV_qPxZJo3YwNo-B78QXYQnRdDbM5/view?usp=sharing)
+
 The future scope of this project is to append a lot of new data of varities of plants and train on the model and build or extend a new one and make better facilities for the application and construct a working usable app on the stores available
 
 "what you see depends on how you view the world, To most people it's just dirt but to a farmer it's Potential"
