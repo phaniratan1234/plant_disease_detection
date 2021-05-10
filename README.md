@@ -24,5 +24,5 @@ Afer we Identified the disease, we need to predict the percent it has been spoil
 
 The future scope of this project is to append a lot of new data of varities of plants and train on the model and build or extend a new one and make better facilities for the application and construct a working usable app on the stores available
 
-what you see depends on how you view the world, To most people it's just dirt but to a farmer it's Potential
+"what you see depends on how you view the world, To most people it's just dirt but to a farmer it's Potential"
 -----------------------------------------------------------------------------------------------------------
